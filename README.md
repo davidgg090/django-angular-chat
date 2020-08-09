@@ -1,6 +1,6 @@
 # Django-Angular Chat Application
 
-
+![ScreenShot: App Main Screen](https://github.com/davidgg090/chat/blob/master/angular-chat/src/assets/cha-view.png)
 
 
 
